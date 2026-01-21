@@ -70,6 +70,29 @@
 
 </details>
 
+## 🤝 Collaborated Projects
+
+- 🔗 [Airbnb AI Booking Platform](https://github.com/shulamite512/Airbnb-clone)
+  Built a microservices-based booking platform with authentication and transactional flows  
+  🔹 Developed an Agentic AI Concierge using LangChain + RAG for POIs and trip planning  
+  🔹 Integrated LangGraph for orchestrating planner and retriever nodes  
+  🔹 **Tech:** Python, FastAPI, LangChain, Node.js, MySQL  
+  *Role:* Backend & Agentic AI (LangChain, RAG, FastAPI)
+
+- 🔗 [Yelp Data Warehouse & Analytics](https://github.com/Mahak202/DataWarehouseProject)
+  Engineered automated ETL pipelines processing 500K+ reviews  
+  🔹 Designed Snowflake fact constellation schema and analytical dashboards  
+  🔹 Performed sentiment analysis and topic modeling across multiple industries  
+  🔹 **Tech:** Airflow, MongoDB, GCP, Snowflake, Python  
+  *Role:* ETL, Snowflake Schema, Analytics
+  
+- 🔗 [Kayak Simulation System] (https://github.com/28mamtajha/KayakSimulation)
+  🔹 Designed and developed a simulation-based application to model kayak movement and interactions  
+  🔹 Applied object-oriented programming principles for modular and scalable design  
+  🔹 Implemented core simulation logic, state management, and console-based interactions  
+  🔹 **Tech:** Java, OOP, Simulation Logic  
+
+  
 ### GitHub Stats
 ![Mahak's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mahak202&show_icons=true&theme=transparent)
 
